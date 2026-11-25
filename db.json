@@ -1,0 +1,75 @@
+{
+  "events": [
+    {
+      "title": "Futuristic Tech Summit 2026",
+      "category": "Technology",
+      "date": "2026-12-22",
+      "location": "Bangalore, Karnataka",
+      "price": 1499,
+      "description": "Explore the latest developments in artificial intelligence, cloud computing, software development and emerging technologies.",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87",
+      "id": "3"
+    },
+    {
+      "id": "5",
+      "title": "Kerala Football Championship",
+      "category": "Sports",
+      "date": "2027-01-10",
+      "location": "Kozhikode, Kerala",
+      "price": 299,
+      "description": "Watch exciting football matches featuring talented teams competing for the championship title.",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20"
+    },
+    {
+      "id": "6",
+      "title": "City Marathon 2027",
+      "category": "Sports",
+      "date": "2027-01-15",
+      "location": "Chennai, Tamil Nadu",
+      "price": 499,
+      "description": "Participate in an energetic marathon promoting fitness, endurance and a healthy lifestyle.",
+      "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635"
+    },
+    {
+      "id": "7",
+      "title": "Full Stack Development Bootcamp",
+      "category": "Education",
+      "date": "2027-01-18",
+      "location": "Kochi, Kerala",
+      "price": 999,
+      "description": "Learn frontend and backend development with HTML, CSS, JavaScript, React, Python and Django.",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3"
+    },
+    {
+      "id": "8",
+      "title": "Career and Placement Workshop",
+      "category": "Education",
+      "date": "2027-01-22",
+      "location": "Bangalore, Karnataka",
+      "price": 399,
+      "description": "Improve your interview skills, resume preparation, communication and technical problem-solving abilities.",
+      "image": "https://images.unsplash.com/photo-1523580494863-6f3031224c94"
+    },
+    {
+      "id": "9",
+      "title": "Electronic Dance Music Night",
+      "category": "Music",
+      "date": "2027-01-25",
+      "location": "Hyderabad, Telangana",
+      "price": 1199,
+      "description": "Enjoy an energetic electronic dance music experience with DJs, lights and spectacular stage performances.",
+      "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3"
+    },
+    {
+      "id": "10",
+      "title": "Startup and Innovation Expo",
+      "category": "Technology",
+      "date": "2027-02-05",
+      "location": "Chennai, Tamil Nadu",
+      "price": 699,
+      "description": "Discover innovative startup ideas, meet entrepreneurs and explore new technology solutions.",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
