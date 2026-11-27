@@ -1,8 +1,7 @@
 
 import type { Event } from '../types/Event'
 
-const API_URL = 'https://eventify-api.onrender.com/events'
-// GET - Fetch all events
+const API_URL = 'https://eventify-api-3dq1.onrender.com/'
 export async function getEvents(): Promise<Event[]> {
   const response = await fetch(API_URL)
 
